@@ -4,7 +4,9 @@
 html {
   background-color: orange;
 }
-
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
 p {
     font-size: 15pt;
 }
